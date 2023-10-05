@@ -1,0 +1,17 @@
+.claimSafetyDiv{
+    position: fixed;
+    z-index: 6;
+    background-color: white;
+    left: 50%;
+    top: 40%;
+    padding: 3%;
+    border-radius: 10px;
+}
+.backgroundClaimPop{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+    z-index: 5;
+}

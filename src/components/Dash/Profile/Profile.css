@@ -1,0 +1,117 @@
+
+.profileSection3{
+    width: 80%;
+    height: 95%;
+    padding: 3%;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    overflow-y: auto;
+}
+.mostUpperProfile3 h1{
+    font-size: 2em;
+}
+.profileUpperSection3{
+    display: flex;
+    width: 100%;
+}
+.leftUpperProfile3 {
+    flex: 1 1 auto;
+    display: flex;
+    gap: 42px;
+    padding-top: 2%;
+}
+.profileWallet3 {
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: right;
+}
+.profileWalletIco3{
+    font-size: 2em;
+    /* color: rgb(0, 172, 0); */
+    color: white;
+}
+.rateProfile3{
+    color: gold;
+}
+.profileTableTr3 td{
+    height: 10vh;
+    max-width: 263px; 
+    /* padding: 5%; */
+    margin: 9%;
+    border-spacing: 100px;
+}
+
+.profileTableTr3 td input{
+
+    max-width: 263px; 
+    padding: 2%;
+    margin: 5%;
+}
+.prfEdit3{
+    display: flex;
+}
+.prfEditLeftSection3{
+    /* width: 70%; */
+    flex: 1 1 auto;
+}
+.prfEditBtn3{
+    flex: 1 1 auto;
+    text-align: right;
+}
+.prfWalletInside3{
+    text-align: center;
+    width: 50%;
+    background-color: #107C10;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+}
+.prfBall3{
+    color: white;
+    font-weight: bold;
+
+}
+.profileTableTrTxtTd3{
+    padding: 2%;
+}
+
+.owlGameSection{
+    margin: 5% auto;
+}
+
+.upperCardPostSection{
+    display: flex;
+}
+.cardHeaderUpper{
+    flex: 1 1 auto;
+    cursor: pointer;
+}
+.card-header{
+    flex: 1 1 auto;
+}
+
+.cardHeaderPost{
+    width: 80%;
+}
+
+.replyNowReview{
+    color: rgb(78, 50, 0);
+
+}
+.replyNowReview:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.personNameReview{
+    font-weight: bold;
+}
+.isReplySection{
+    text-align: right;
+}
+.backgroundClaimPop{
+    background-color: black;
+    opacity: 0.8;
+}

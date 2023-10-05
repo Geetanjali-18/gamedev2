@@ -1,0 +1,22 @@
+.main-github-page{
+    width: 100%;
+    height: 100vh;
+}
+.github-pic{
+    background-image: url('../../assets/githubBackground.jpg');
+    width: 100%;
+    height: 80%;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.github-heading{
+    color: white;
+    font-size: 8rem;
+}
+.github-info{
+    color: white;
+    font-size: 2rem;
+}
